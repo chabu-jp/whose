@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+# Should be compatible with Perl 5.8.x
+
 use strict;
 use warnings;
 
