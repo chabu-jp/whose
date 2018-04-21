@@ -1,7 +1,6 @@
 # Usage example
-```bash
-./whose.pl 192.0.2.1
-./whose.pl 2001:db8::1
+```
+$ ./whose.pl 1.1.1.1
 ```
 will shows
 ```
