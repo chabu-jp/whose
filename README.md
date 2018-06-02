@@ -2,7 +2,7 @@
 ```
 $ ./whose.pl 1.1.1.1
 ```
-will shows
+will show
 ```
 IP Address: 1.1.1.1
 Hostname  : 1dot1dot1dot1.cloudflare-dns.com
